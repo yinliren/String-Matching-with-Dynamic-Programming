@@ -2,6 +2,7 @@
 ### DNA Matching
 
 **Abstract**
+
 In this project you will implement and compare two algorithms that solve the same problem. The first is an exhaustive algorithm with a slow (i.e. exponential) running time, while the second is a dynamic programming algorithm with a fast (i.e. polynomial) running time.
 Both algorithms solve the problem of finding the longest common subsequence of two strings. More specifically, given two strings, the algorithm finds the length of the longest sequence of characters (in order) that match between the two strings.
 
